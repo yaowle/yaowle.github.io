@@ -22,7 +22,7 @@ blog_button:
 
 # Navigation buttons in the front page.
 nav:
-    - {title: Projects, description: My Projects, url: 'http://project.onevcat.com'}
+    - {title: Bilibili, description: My Bilibili, url: 'https://space.bilibili.com/438978346?spm_id_from=333.337.0.0'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
 
 # Pagination
